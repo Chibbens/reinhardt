@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 17px;
+	line-height: 30px;
+}
+
+header{
+	background-color: #C13A56;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+h1, h2, h3{
+	font-family: 'IBM Plex Sans JP', sans-serif;
+}
+
+header h1{
+	color: white;
+	font-size: 50px;
+
+}
+
+header img{
+	border-radius: 500px;
+	width: 700px;
+	border: 15px solid white;
+}
+
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 35px;
+	color: #C13A56;
+	margin: 40px 0 10px;
+}
+
+h3{
+	font-size: 25px;
+	color: #C13A56;
+}
+
+a{
+	color: #C13A56;
+}
+
+a:hover{
+	color: white;
+	background-color: #C13A56;
+	opacity: .8;
+}
+
+footer{
+	text-align: center;
+	background-color: #C13A56;
+	color: white;
+	padding: 10px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	background-color: transparent;
+}
+
+p.caption{
+	color: #C13A56;
+	opacity: .8;
+	font-style: italic;
+	margin-top: 0;
+}
